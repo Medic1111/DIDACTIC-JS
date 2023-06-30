@@ -6,15 +6,15 @@ CLI Tool to assist with finding quick JavaScript methods and properties along wi
 
 ## GALLERY
 
-[Photo of program](./assets/one.png)
+![Photo of program](./assets/one.png)
 
-[Photo of program](./assets/two.png)
+![Photo of program](./assets/two.png)
 
-[Photo of program](./assets/three.png)
+![Photo of program](./assets/three.png)
 
 ## THIS IS AN OPEN SOURCE INITIATIVE!
 
-Would you like to contribute? Please refer to CONTRIBUTE.md to see how to proceed about it. We welcome all levels of developers.
+Would you like to contribute? Please refer to [contribute.md](CONTRIBUTE.md) to see how to proceed about it. We welcome all levels of developers.
 
 ## GETTING IT GOING
 
