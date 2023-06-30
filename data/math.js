@@ -1,0 +1,28 @@
+const mathArr = [
+  "abs()",
+  "acos()",
+  "asin()",
+  "atan()",
+  "cbrt()",
+  "ceil()",
+  "cos()",
+  "cosh()",
+  "exp()",
+  "floor()",
+  "hypot()",
+  "log()",
+  "max()",
+  "min()",
+  "pow()",
+  "random()",
+  "round()",
+  "sign()",
+  "sin()",
+  "sinh()",
+  "sqrt()",
+  "tan()",
+  "tanh()",
+  "trunc()",
+];
+
+module.exports = mathArr;
