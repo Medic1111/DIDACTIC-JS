@@ -1,7 +1,7 @@
 const stringsExObj = {
   "length": `
   const str = 'Life, the universe and everything. Answer:';
-  // console.log(`${str} ${str.length}`);
+  console.log('str', str.length');
   // Expected output: "Life, the universe and everything. Answer: 42"
   `,
   //
@@ -98,7 +98,7 @@ const stringsExObj = {
   "charCodeAt()": `
   const sentence = 'The quick brown fox jumps over the lazy dog.';
   const index = 4;
-  //console.log(`The character code ${sentence.charCodeAt(index)} is equal to ${sentence.charAt(index)}`);
+  console.log('The character code', + (sentence.charCodeAt(index)), 'is equal to ' + (sentence.charAt(index));
   // output: "The character code 113 is equal to q"
   `,
   "split()": `

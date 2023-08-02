@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "didatic-js": "index.js"
+    "didactic-js": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
